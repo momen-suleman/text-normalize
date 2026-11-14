@@ -1,0 +1,8 @@
+{
+  "kind": "capability",
+  "name": "Text Normalize",
+  "description": "Collapses runs of whitespace into a single space.",
+  "category": "Transform",
+  "endpoint": "http://127.0.0.1:9330",
+  "timeoutSecs": 15
+}

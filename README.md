@@ -24,3 +24,12 @@ Open **Capabilities → New capability**, set the Endpoint to
 `http://127.0.0.1:9321` (or wherever deployed). See
 [orqen-registry](https://github.com/momen-suleman/orqen-registry) for the
 full community index.
+
+## Import as an Orqen Library
+
+This repository is also an [Orqen Library](https://github.com/momen-suleman/orqen-registry):
+`orqen.json` describes it and `capabilities/*.json` registers the capability.
+In Orqen Studio open **Library**, enter this repository (`owner/repo`) and
+press **Scan → Import** — the capability is created with the endpoint from
+the JSON file (change it on the Capabilities page if you run it elsewhere).
+Nothing in the repository is executed by the import.

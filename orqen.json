@@ -1,0 +1,10 @@
+{
+  "name": "Text Normalize",
+  "description": "Collapses runs of whitespace into a single space.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/momen-suleman/text-normalize",
+  "tags": [
+    "text",
+    "normalize"
+  ]
+}
